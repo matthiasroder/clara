@@ -1,2 +1,2 @@
 # clara
-Tools for stidying and learning
+Tools for studying and learning
